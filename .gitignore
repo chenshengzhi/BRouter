@@ -1,0 +1,17 @@
+xcuserdata/
+.idea/
+.DS_Store
+DerivedData
+fastlane
+Gemfile
+Gemfile.lock
+
+#CocoaPods
+Pods/
+!Podfile
+!Podfile.lock
+
+#Carthage
+Carthage/
+!Cartfile
+!Cartfile.resolved%
